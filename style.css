@@ -1,0 +1,28 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 12px;
+}
+h2 { 
+   color: rgb(43, 183, 226);  
+}
+h3{
+  color: purple
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
